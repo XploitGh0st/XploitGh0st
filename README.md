@@ -36,20 +36,63 @@ focus : vulnerabilities that matter, reports that get patched
 
 ## Toolkit
 
+<div align="center">
+  <sub>Signal meets style — badges glow in Nanda Blue (#38BDF8).</sub>
+</div>
+
 ### Offensive Stack
-`Burp Suite` `OWASP ZAP` `Nmap` `Nikto` `Wireshark` `Metasploit` `Shodan` `GHIDRA` `ffuf`
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-0a0a0a?style=flat-square&logo=burpsuite&logoColor=FF6F00" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-0a0a0a?style=flat-square&logo=owasp&logoColor=38BDF8" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Nmap-0a0a0a?style=flat-square&logo=nmap&logoColor=38BDF8" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-0a0a0a?style=flat-square&logo=wireshark&logoColor=38BDF8" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-0a0a0a?style=flat-square&logo=metasploit&logoColor=38BDF8" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Shodan-0a0a0a?style=flat-square&logo=shodan&logoColor=38BDF8" alt="Shodan" />
+  <img src="https://img.shields.io/badge/Ghidra-0a0a0a?style=flat-square&logo=ghidra&logoColor=FF0000" alt="Ghidra" />
+</p>
+<p>
+  <code>Nikto</code> <code>ffuf</code>
+</p>
 
 ### Crypto & Blockchain
-`Solidity` `Hardhat` `Foundry` `Ethereum` `Hyperledger Fabric` `Zero-Knowledge Circuits`
+<p>
+  <img src="https://img.shields.io/badge/Solidity-0a0a0a?style=flat-square&logo=solidity&logoColor=38BDF8" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Hardhat-0a0a0a?style=flat-square&logo=hardhat&logoColor=F7DF1E" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Ethereum-0a0a0a?style=flat-square&logo=ethereum&logoColor=38BDF8" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Hyperledger-0a0a0a?style=flat-square&logo=hyperledger&logoColor=38BDF8" alt="Hyperledger" />
+</p>
+<p>
+  <code>Foundry</code> <code>Zero-Knowledge Circuits</code>
+</p>
 
 ### Cloud & Infra
-`AWS IAM` `AWS EC2` `AWS S3` `AWS VPC` `Azure AD` `Azure VNet` `Azure VMs` `Docker` `Kubernetes`
+<p>
+  <img src="https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0a0a0a?style=flat-square&logo=microsoftazure&logoColor=38BDF8" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=38BDF8" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-0a0a0a?style=flat-square&logo=kubernetes&logoColor=38BDF8" alt="Kubernetes" />
+</p>
+<p>
+  <code>AWS IAM</code> <code>AWS EC2</code> <code>AWS S3</code> <code>AWS VPC</code> <code>Azure AD</code> <code>Azure VNet</code> <code>Azure VMs</code>
+</p>
 
 ### Scripting & Platforms
-`Python` `C/C++` `Bash` `PowerShell` `Go` `Linux (Kali, Ubuntu)` `Windows` `Git`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,powershell,go,linux,windows,git" alt="Languages and platforms" />
+</p>
+<p>
+  <code>Kali</code> <code>Ubuntu</code>
+</p>
 
 ### Telecom & IoT
-`SS7 Toolkits` `srsLTE` `Osmocom` `SDR` `Arduino IDE` `Sensor Integration`
+<p>
+  <img src="https://img.shields.io/badge/Arduino-0a0a0a?style=flat-square&logo=arduino&logoColor=39FF14" alt="Arduino" />
+  <img src="https://img.shields.io/badge/SDR-0a0a0a?style=flat-square&logo=gnubash&logoColor=38BDF8" alt="Software Defined Radio" />
+  <img src="https://img.shields.io/badge/IoT%20Sensors-0a0a0a?style=flat-square&logo=sensu&logoColor=38BDF8" alt="IoT Sensors" />
+</p>
+<p>
+  <code>SS7 Toolkits</code> <code>srsLTE</code> <code>Osmocom</code> <code>Sensor Integration</code>
+</p>
 
 ## Signal Log
 
