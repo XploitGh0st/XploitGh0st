@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:39FF14&height=160&section=header&text=Nanda%20Kumaran%20G&fontSize=38&fontAlign=50&fontAlignY=32&animation=fadeIn&desc=Cybersecurity%20Specialist%20%7C%20Bug%20Bounty%20Researcher&descAlign=50&descAlignY=55&fontColor=ffffff" alt="Neon header" />
+</p>
+
 <h1 align="center">Nanda Kumaran G</h1>
 <p align="center"><strong>Ethical Hacker · Bug Bounty Researcher · Cryptography &amp; SS7 Explorer</strong></p>
 <p align="center">
@@ -33,6 +37,21 @@ focus : vulnerabilities that matter, reports that get patched
 | Web & API | Break auth flows, smash logic bugs, chain low severity to payouts. | Multi-tenant auth bypass lab, automated recon pipelines. |
 | Cryptography | Stress-test smart contracts, roll custom proofs, adversarial fuzzing. | Solidity escrow vault, BB84 key-exchange simulator. |
 | SS7 / Telecom | Track insecure routing, SIM swap vectors, SMS interception. | Private lab with srsLTE + rogue HLR replay scripts. |
+
+## Cyber Pulse
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Live%20Targets-12-active?style=for-the-badge&labelColor=0a0a0a&color=38BDF8" alt="Live targets" />
+  <img src="https://img.shields.io/badge/Responsible%20Disclosures-%E2%89%A525-light?style=for-the-badge&labelColor=0a0a0a&color=39FF14" alt="Reports shipped" />
+  <img src="https://img.shields.io/badge/CTF%20Creations-8%20custom%20challenges-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=9333EA" alt="CTF challenges" />
+</div>
+
+| Frequency Band | Transmission | Signal Strength |
+| --- | --- | --- |
+| `Bug Bounty` | Privilege escalations, auth bypasses, business logic abuse. | ⚡⚡⚡⚡⚡ |
+| `VAPT` | Full-stack recon → exploitation → executive reporting pipelines. | ⚡⚡⚡⚡⚡ |
+| `Crypto` | Smart-contract fuzzing, zk experimentation, quantum-proof handshakes. | ⚡⚡⚡⚡ |
+| `SS7` | Paging channel monitoring, rogue HLR/MSC lab, telecom threat intel. | ⚡⚡⚡⚡ |
 
 ## Toolkit
 
@@ -116,3 +135,7 @@ focus : vulnerabilities that matter, reports that get patched
 <div align="center">
   <sub>"If it is exploitable, it is fixable." — Ping me before the bad actors do.</sub>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:39FF14&height=120&section=footer" alt="Footer wave" />
+</p>
