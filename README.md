@@ -39,7 +39,7 @@ focus  : vulnerabilities that matter, reports that get patched
 ## 🧰 Arsenal
 
 <div align="center">
-  <sub>Signal meets style — badges glow in Nanda Blue (#38BDF8).</sub>
+  <sub></sub>
 </div>
 
 ### Offensive Stack
